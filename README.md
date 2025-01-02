@@ -8,7 +8,7 @@
 I'm a Senior Software Engineer with over 13 years of experience in Software and Web Development. My expertise is rooted in a tech stack that includes technologies like Ruby on Rails, PostgreSQL, JavaScript, and React.js. My technical proficiency extends to cloud solutions, with practical experience in Amazon Web Services AWS and deploying applications on Heroku. I’m also known for my creative problem-solving abilities, which enable me to navigate challenging software development scenarios. My professionalism shines through in my work ethic and effective communication skills that ensure clarity and collaboration with stakeholders and internal teams.
 
 - 🌱 Currently learning: Ruby, React
-- 🔭 Working on: Public Health Management System (using Ruby on Rails)
+- 🔭 Working on: Kipu Health (Assuresoft) (using Ruby on Rails)
 - 🌍 Languages: PT-BR, EN
 - 📫 How to reach me: [Email](mailto:cpeixejr@gmail.com)
 
