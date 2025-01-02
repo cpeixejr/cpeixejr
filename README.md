@@ -24,9 +24,24 @@ I'm a Senior Software Engineer with over 13 years of experience in Software and 
 
 ## Featured Projects 💻
 
+### [Kipu Health]([https://om30.com.br/saude-simples/](https://www.kipuhealth.com/))
+
+- I was part of a dynamic team responsible for developing and maintaining a Behavioral Healthcare System Ruby on Rails.
+- My responsibilities include:
+    - Technical Leadership: Provide technical leadership and mentorship to junior team members, guiding them in best practices, architecture, and problem-solving.
+    - Architectural Design: Lead the design and architecture of complex software systems, making decisions on frameworks, tools, and technology stack.
+    - Codebase Ownership: Take ownership of critical code components, ensuring maintainability, scalability, and extensibility.
+    - Performance and Scalability: Optimize software applications for performance, scalability, and efficiency, anticipating future growth and requirements.
+    - Security and Compliance: Ensure software security best practices are followed, identify potential vulnerabilities, and implement appropriate security measures.
+    - Cross-team Collaboration: Collaborate with cross-functional teams, such as product managers, DevOps, and QA, to drive successful software development and delivery.
+    - Research and Innovation: Stay updated with the latest technologies, industry trends, and best practices, and propose innovative solutions to challenging problems.
+    - Code Reviews and Standards: Lead code reviews, enforce coding standards, and promote best practices within the development team.
+    - Technical Debt Management: Identify and address technical debt, finding opportunities to refactor and improve existing codebases.
+    - Troubleshooting and Problem-Solving: Resolve complex technical issues and support critical production incidents.
+
 ### [Public Health Management System](https://om30.com.br/saude-simples/)
 
-- I was part of a dynamic team responsible for developing and maintaining a Health  System for Public Health Management System using Ruby on Rails, ElasticSearch, and Vue.js.
+- I was part of a dynamic team responsible for developing and maintaining a Health System for Public Health Management System using Ruby on Rails, ElasticSearch, and Vue.js.
 - We integrated the system with the Brazilian SUS regulations, ensuring compliance and contributing to the project's focus on effective healthcare administration.
 
 ### [Storyboard](https://new.trystoryboard.com/)
