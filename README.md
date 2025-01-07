@@ -24,7 +24,7 @@ I'm a Senior Software Engineer with over 13 years of experience in Software and 
 
 ## Featured Projects 💻
 
-### [Kipu Health]([https://om30.com.br/saude-simples/](https://www.kipuhealth.com/))
+### [Kipu Health]([https://om30.com.br/saude-simples/](https://www.kipuhealth.com/)
 
 - I was part of a dynamic team responsible for developing and maintaining a Behavioral Healthcare System Ruby on Rails.
 - My responsibilities include:
