@@ -27,6 +27,7 @@ I'm a Senior Software Engineer with over 13 years of experience in Software and 
 ### [Kipu Health](https://www.kipuhealth.com/)
 
 - I was part of a dynamic team responsible for developing and maintaining a Behavioral Healthcare System Ruby on Rails.
+- The Kipu ecosystem is transforming the behavioral health business with an industry-leading suite of products. Kipu helps treatment centers achieve optimal outcomes and empowers patients and caregivers at every step of the recovery journey.
 - My responsibilities include:
     - Technical Leadership: Provide technical leadership and mentorship to junior team members, guiding them in best practices, architecture, and problem-solving.
     - Architectural Design: Lead the design and architecture of complex software systems, making decisions on frameworks, tools, and technology stack.
